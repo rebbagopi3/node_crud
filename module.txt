@@ -1,0 +1,9 @@
+npm i express mongoose multer bcrypt cloudinary cros dotenv jsonwebtoken nodemon validator
+------------------------------------------
+"start": "node server.js",
+run cmd : - npm start
+-------------------------
+nodemon
+----------------
+"server":"nodemon server.js"
+run  cmd: npm run server
